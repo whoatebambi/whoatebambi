@@ -1,16 +1,16 @@
-# Hi there, I'm whoatebambi! 👋
+# Hi there, I'm Florence Cousergue! 👋
 
-Welcome to my GitHub profile! I'm a student at Ecole 42 Paris, with an interest in Rust and blockchain in general. Previously UI/UX designer.
+I'm an a student at Ecole 42 Paris with a background in UI/UX design and product development. Experienced in working closely with
+developers to create seamless digital experiences.
 
 ## About Me
 
-- 🌱 I’m currently learning **Rust, CPP**
-- 👯 I’m looking to collaborate on **blockchain projects**
-- 💬 Ask me about **product design**
+- 🌱 I’m currently learning **Rust, C++**
+- 👯 I’m looking for opportunities to **grow and contribute to a development team**
 
 ## Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)

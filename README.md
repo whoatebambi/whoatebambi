@@ -1,37 +1,57 @@
-# Hi there, I'm Florence Cousergue! 👋
-
-Former Product Designer turned passionate full-stack developer from 42 Paris.
+Former Product Designer turned **Creative Developer & Design Engineer** from 42 Paris.
 
 ## About Me
 
-- 🌱 I’m currently learning **Typescript, React, SQL**
-- 👯 I bring 5+ years of UI/UX experience working closely with engineering teams.
-- 🛠️ Looking for an internship opportunity as Full Stack Web Developer.
+- 🎨 **Creative Developer** | Bridging design and code to build beautiful, interactive experiences
+- 👯 I bring **5+ years of UI/UX experience** working closely with engineering teams, now combining design thinking with technical implementation.
+- 🌱 Currently exploring **creative coding, WebGL shaders, and interactive design systems**.
+- 🛠️ Looking for job opportunities as **Creative Developer** or **Design Engineer**.
 
-## Languages and Tools
+## Featured Project
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+### 🎮 [Avalanche Pong](https://github.com/whoatebambi/avalanche-pong)
+An interactive browser-based Pong game showcasing the intersection of **creative coding, visual design, and blockchain technology**.
+
+**Design & Creative Features:**
+- **WebGL shader backgrounds** for immersive visual effects
+- Responsive, mobile-first UI with smooth animations
+- Real-time blockchain data visualization with animated block numbers
+- Thoughtful UX design for seamless gameplay experience
+
+**Technical Implementation:**
+- Local multiplayer gameplay with 1v1 and 1vAI modes
+- Blockchain score storage on Avalanche Fuji testnet
+- Custom React components with TypeScript
+- Server-side transaction signing with Next.js API routes
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, WebGL, Solidity, Hardhat, Ethers.js
+
+## Skills & Tools
+
+**Creative & Design:**
+- UI/UX Design, Design Systems
+- Creative Coding
+- Responsive Design, Animation
+
+**Frontend Development:**
+- React, Next.js, TypeScript
+- Tailwind CSS, CSS3, HTML5
+
+**Backend & Web3:**
+- Node.js, Next.js API Routes
+- Solidity, Hardhat, Ethers.js
+- Blockchain Integration
+
+**Tools:**
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://linkedin.com/in/florencecousergue)
 
-<!--
-**whoatebambi/whoatebambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

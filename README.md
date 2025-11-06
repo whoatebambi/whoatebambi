@@ -1,4 +1,4 @@
-Former Product Designer turned **Creative Developer & Design Engineer** from 42 Paris.
+Former Product Designer turned **Creative Developer** from 42 Paris.
 
 ## About Me
 
